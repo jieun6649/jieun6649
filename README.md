@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning ...
-JAVA
+Java
+Java Spring Framework
+eGovFrame
+Python
+Database
